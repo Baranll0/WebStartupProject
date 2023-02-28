@@ -8,7 +8,7 @@ It covers some very fundamental and neccessary features for the Web Application.
 
 
 ### Tech use:
-![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=orange)
+![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB)
 ![CSS](https://img.shields.io/badge/css-%230081CB.svg?style=for-the-badge&logo=css&logoColor=blue)
 
 
